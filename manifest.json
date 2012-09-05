@@ -1,0 +1,18 @@
+{
+	"BundleType": "Application",
+	"AppIcon": {
+		"18x18": "images/icons/icon-18x18.png"
+	},
+	"AppName": {
+		"es": "dSong"
+	},
+	"RequiredPermissions": [
+		"http://www.dsong.es/",
+		"http://ajax.googleapis.com/",
+		"http://ws.audioscrobbler.com/",
+		"http://userserve-ak.last.fm/"
+	]
+	"SupportedLanguages": [
+		"es"
+	]
+}
